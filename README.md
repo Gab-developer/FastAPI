@@ -1,6 +1,6 @@
 # FastAPI-Simples
 
-Uma API simples com **FastAPI** para aprendizao.
+Uma API simples com **FastAPI** para aprendizado.
 
 ---
 
